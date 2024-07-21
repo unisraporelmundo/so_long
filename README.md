@@ -3,6 +3,8 @@
     <img src="https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/solonggif.gif"/>
 </h1>
 
+[Click aquí](https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/solong.pdf) para ver el `PDF` del proyecto.
+
 ## Introducción
 
 ¡Bienvenido al proyecto `so_long`! En este proyecto, te enfrentarás al desafío de desarrollar un juego 2D utilizando la librería gráfica MiniLibX. El objetivo es mejorar tus habilidades en diseño gráfico, manejo de ventanas, eventos, texturas y más. El proyecto tiene como premisa que un personaje que elijas debe escapar del mapa después de recolectar ciertos objetos. ¡Prepárate para un viaje creativo!
